@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/AniketKasav/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/AniketKasav/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/AniketKasav/LeetCode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/AniketKasav/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/AniketKasav/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Math
