@@ -11,12 +11,12 @@ class Solution {
         //     Arrays.fill(dp[i],-1);
         // }
         // return helpher(nums,target,0,0,dp);
-
-        boolean[][]dp=new boolean[nums.length+1][target+1];
-        for(int i=0;i<dp.length;i++){
+        int n=nums.length;
+        boolean[][]dp=new boolean[n+1][target+1];
+        for(int i=0;i<n+1;i++){
             dp[i][0]=true;
         }
-        for(int i=1;i<=nums.length;i++){
+        for(int i=1;i<=n;i++){
             for(int sum=1;sum<=target;sum++){
                 if(sum<nums[i-1]){
                     dp[i][sum]=dp[i-1][sum];
@@ -26,7 +26,7 @@ class Solution {
                 }
             }
         }
-        return dp[nums.length][target];
+        return dp[n][target];
 
     }
 
