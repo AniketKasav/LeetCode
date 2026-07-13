@@ -11,7 +11,7 @@ class Solution {
         //     Arrays.fill(dp[i],-1);
         // }
         // return helpher(nums,target,0,0,dp);
-        int n=nums.length;
+        //int n=nums.length;
         // boolean[][]dp=new boolean[n+1][target+1];
         // for(int i=0;i<n+1;i++){
         //     dp[i][0]=true;
