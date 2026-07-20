@@ -1,0 +1,22 @@
+class Solution {
+    public int countSubstrings(String s) {
+        int totalCount=0;
+        for(int i=0;i<s.length()-1;i++){
+            int even=helpher(i,i,s);
+            int odd=helpher(i,i+1,s);
+            totalCount+=(even+odd);
+        }
+        return totalCount+1;
+    }
+
+    int helpher(int l,int r,String s){
+        int count=0;
+        while(l>=0 && r<s.length() && s.charAt(l)==s.charAt(r)){
+            l--;
+            r++;
+            count+=1;
+        }
+        return count;
+    }
+
+}
