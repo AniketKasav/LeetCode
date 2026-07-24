@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/AniketKasav/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AniketKasav/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AniketKasav/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/AniketKasav/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/AniketKasav/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AniketKasav/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/AniketKasav/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AniketKasav/LeetCode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/AniketKasav/LeetCode/tree/master/0091-decode-ways) |
+| [0115-distinct-subsequences](https://github.com/AniketKasav/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/AniketKasav/LeetCode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/1143-longest-common-subsequence) |
