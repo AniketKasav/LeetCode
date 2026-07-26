@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AniketKasav/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/AniketKasav/LeetCode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/AniketKasav/LeetCode/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AniketKasav/LeetCode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/AniketKasav/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0456-132-pattern) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
