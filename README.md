@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/AniketKasav/LeetCode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/AniketKasav/LeetCode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/AniketKasav/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0940-distinct-subsequences-ii](https://github.com/AniketKasav/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/AniketKasav/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/AniketKasav/LeetCode/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/AniketKasav/LeetCode/tree/master/0647-palindromic-substrings) |
+| [0940-distinct-subsequences-ii](https://github.com/AniketKasav/LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1143-longest-common-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
