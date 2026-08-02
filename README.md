@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/AniketKasav/LeetCode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AniketKasav/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/AniketKasav/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AniketKasav/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AniketKasav/LeetCode/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/AniketKasav/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
