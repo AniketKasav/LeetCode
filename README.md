@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AniketKasav/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AniketKasav/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AniketKasav/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/AniketKasav/LeetCode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/0300-longest-increasing-subsequence) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/AniketKasav/LeetCode/tree/master/0279-perfect-squares) |
 | [1137-n-th-tribonacci-number](https://github.com/AniketKasav/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AniketKasav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/AniketKasav/LeetCode/tree/master/0647-palindromic-substrings) |
 ## Recursion
 |  |
