@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketKasav/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/AniketKasav/LeetCode/tree/master/0279-perfect-squares) |
 | [1137-n-th-tribonacci-number](https://github.com/AniketKasav/LeetCode/tree/master/1137-n-th-tribonacci-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AniketKasav/LeetCode/tree/master/0002-add-two-numbers) |
 | [0010-regular-expression-matching](https://github.com/AniketKasav/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/AniketKasav/LeetCode/tree/master/0044-wildcard-matching) |
 ## Greedy
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AniketKasav/LeetCode/tree/master/0136-single-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/AniketKasav/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
