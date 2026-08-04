@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/AniketKasav/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/AniketKasav/LeetCode/tree/master/0221-maximal-square) |
+| [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/AniketKasav/LeetCode/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AniketKasav/LeetCode/tree/master/0312-burst-balloons) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
+| [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -174,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AniketKasav/LeetCode/tree/master/0002-add-two-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
