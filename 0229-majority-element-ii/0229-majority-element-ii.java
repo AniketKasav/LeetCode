@@ -13,10 +13,10 @@ class Solution {
                 count1++;
             }else if(num==cand2){
                 count2++;
-            }else if(count1==0 && num!=cand2){
+            }else if(count1==0){  // && num!=cand2
                 cand1=num;
                 count1=1;
-            }else if(count2==0 && num!=cand1){
+            }else if(count2==0){  // && num!=cand1
                 cand2=num;
                 count2=1;
             }else{
