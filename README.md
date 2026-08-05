@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AniketKasav/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AniketKasav/LeetCode/tree/master/0322-coin-change) |
+| [0414-third-maximum-number](https://github.com/AniketKasav/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AniketKasav/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0456-132-pattern) |
 | [0485-max-consecutive-ones](https://github.com/AniketKasav/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
+| [0414-third-maximum-number](https://github.com/AniketKasav/LeetCode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
