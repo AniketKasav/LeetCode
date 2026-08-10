@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AniketKasav/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AniketKasav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AniketKasav/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0049-group-anagrams](https://github.com/AniketKasav/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AniketKasav/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AniketKasav/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AniketKasav/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AniketKasav/LeetCode/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AniketKasav/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/AniketKasav/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/AniketKasav/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AniketKasav/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AniketKasav/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/AniketKasav/LeetCode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/AniketKasav/LeetCode/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/AniketKasav/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AniketKasav/LeetCode/tree/master/0091-decode-ways) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/AniketKasav/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AniketKasav/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AniketKasav/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
