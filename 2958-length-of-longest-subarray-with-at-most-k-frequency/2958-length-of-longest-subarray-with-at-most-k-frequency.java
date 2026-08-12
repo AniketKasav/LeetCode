@@ -2,7 +2,7 @@ class Solution {
     public int maxSubarrayLength(int[] nums, int k) {
         HashMap<Integer,Integer> freq=new HashMap<>();
         int left=0;
-        int maxlen=Integer.MIN_VALUE;
+        int maxlen=0;
         for(int right=0;right<nums.length;right++){
             int num=nums[right];
             freq.put(num,freq.getOrDefault(num,0)+1);
