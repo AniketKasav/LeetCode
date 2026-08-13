@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/AniketKasav/LeetCode/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/AniketKasav/LeetCode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AniketKasav/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/AniketKasav/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0456-132-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0456-132-pattern) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0290-word-pattern) |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AniketKasav/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AniketKasav/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
@@ -209,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/AniketKasav/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AniketKasav/LeetCode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AniketKasav/LeetCode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -231,4 +235,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/AniketKasav/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
