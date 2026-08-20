@@ -10,7 +10,7 @@ class Solution {
                 uniqueCount++;
                 }
             freq[f[right]]++;
-            while(uniqueCount>2 && left<=right){
+            while(uniqueCount>2){
                 freq[f[left]]--;
                 if(freq[f[left]]==0)uniqueCount--;
                 left++;
