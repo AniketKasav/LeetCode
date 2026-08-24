@@ -18,11 +18,11 @@ class Solution {
             s++;
         }
         if(s==0)return head;
-        int i=1;
         k=k%s;
         if(k==0)return head;
         ListNode slow=head;
         ListNode fast=head.next;
+        int i=1;
         while(i<s-k){
             fast=fast.next;
             slow=slow.next;
