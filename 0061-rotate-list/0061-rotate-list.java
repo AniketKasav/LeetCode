@@ -20,6 +20,7 @@ class Solution {
         if(s==0)return head;
         int i=1;
         k=k%s;
+        if(k==0)return head;
         ListNode slow=head;
         ListNode fast=head.next;
         while(i<s-k){
@@ -28,7 +29,6 @@ class Solution {
             i++;
         }
         ListNode ans=fast;
-        if(fast==null)return head;
         while(fast.next!=null){
             fast=fast.next;
         }
