@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/AniketKasav/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/AniketKasav/LeetCode/tree/master/0139-word-break) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AniketKasav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AniketKasav/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AniketKasav/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/AniketKasav/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AniketKasav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AniketKasav/LeetCode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/AniketKasav/LeetCode/tree/master/0647-palindromic-substrings) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/AniketKasav/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AniketKasav/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/AniketKasav/LeetCode/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/AniketKasav/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AniketKasav/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 ## Sorting
 |  |
