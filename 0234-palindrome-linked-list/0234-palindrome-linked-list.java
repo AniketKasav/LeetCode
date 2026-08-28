@@ -22,20 +22,8 @@ class Solution {
             slow=slow.next;
             fast=fast.next.next;
         }
-        ListNode rev=reverse(slow.next);
-        slow.next=null;
-        while(rev!=null){
-            if(head.val!=rev.val){
-                return false;
-            }
-            head=head.next;
-            rev=rev.next;
-        }
-        return true;
-    }
-
-    ListNode reverse (ListNode head){
-        ListNode curr=head;
+        // ListNode rev=reverse(slow.next);
+        ListNode curr=slow.next;
         ListNode pre=null;
         while(curr!=null){
             ListNode nxt=curr.next;
@@ -43,8 +31,28 @@ class Solution {
             pre=curr;
             curr=nxt;
         }
-        return pre;
+        slow.next=null;
+        while(pre!=null){
+            if(head.val!=pre.val){
+                return false;
+            }
+            head=head.next;
+            pre=pre.next;
+        }
+        return true;
     }
+
+    // ListNode reverse (ListNode head){
+    //     ListNode curr=head;
+    //     ListNode pre=null;
+    //     while(curr!=null){
+    //         ListNode nxt=curr.next;
+    //         curr.next=pre;
+    //         pre=curr;
+    //         curr=nxt;
+    //     }
+    //     return pre;
+    // }
 
     // boolean solve(ListNode head){
     //     if(head==null) return true;
