@@ -22,9 +22,9 @@ class Solution {
             return;
         }
 
-        for(int choice=3;choice>=1;choice--){
+        for(int choice=1;choice<=3;choice++){
             if(idx + choice > s.length()) {
-                continue;
+                break;
             }
             String subpart=s.substring(idx,idx+choice);
             if(choice>1 && subpart.charAt(0)=='0'){
