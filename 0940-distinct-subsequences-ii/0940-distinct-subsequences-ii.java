@@ -12,10 +12,10 @@ class Solution {
                 memo[i]=(2*memo[i-1])%MOD;
                 last[ch-'a']=i;
             }else{
-                memo[i]=(2*memo[i-1]-memo[last[ch-'a']-1]+MOD)%MOD;
+                memo[i]=(2*memo[i-1]-memo[last[ch-'a']-1]+MOD)%MOD;  //to avoid -ve values
                 last[ch-'a']=i;
             }
         }
-        return (int)((memo[n]-1+MOD)%MOD);
+        return (int)((memo[n]-1+MOD)%MOD);  // to avoid -ve vlaues
     }
 }
