@@ -238,10 +238,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AniketKasav/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AniketKasav/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AniketKasav/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AniketKasav/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/AniketKasav/LeetCode/tree/master/0099-recover-binary-search-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AniketKasav/LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bit Manipulation
 |  |
 | ------- |
