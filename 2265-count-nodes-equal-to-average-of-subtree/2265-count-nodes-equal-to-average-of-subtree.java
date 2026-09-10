@@ -14,9 +14,8 @@
  * }
  */
 class Solution {
-    static int ans;
+    int ans=0;
     public int averageOfSubtree(TreeNode root) {
-        ans=0;
         solve(root);
         return ans;
     }
