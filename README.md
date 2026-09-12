@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AniketKasav/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AniketKasav/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/AniketKasav/LeetCode/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/AniketKasav/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AniketKasav/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AniketKasav/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/AniketKasav/LeetCode/tree/master/0056-merge-intervals) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AniketKasav/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AniketKasav/LeetCode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/AniketKasav/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AniketKasav/LeetCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/AniketKasav/LeetCode/tree/master/0077-combinations) |
 | [0093-restore-ip-addresses](https://github.com/AniketKasav/LeetCode/tree/master/0093-restore-ip-addresses) |
