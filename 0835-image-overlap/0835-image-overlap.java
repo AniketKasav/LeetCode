@@ -27,20 +27,31 @@ class Solution {
 
         Map<String,Integer>mp=new HashMap<>();
 
+        // for(int[] pos1:img1Ones){
+        //     int r=pos1[0];
+        //     int c=pos1[1];
+        //     for(int[] pos2:img2Ones){
+        //         int r1=pos2[0];
+        //         int c1=pos2[1];
+        //         String movement=(r-r1)+","+(c-c1);
+        //         mp.put(movement,mp.getOrDefault(movement,0)+1);
+        //     }
+        // }
+        // int ans=0;
+        // for(int val:mp.values()){
+        //     if(val>ans)ans=val;
+        // }
+        // return ans;
+
+        int best=0;
+        int[][] count=new int[2*n][2*n];
         for(int[] pos1:img1Ones){
-            int r=pos1[0];
-            int c=pos1[1];
             for(int[] pos2:img2Ones){
-                int r1=pos2[0];
-                int c1=pos2[1];
-                String movement=(r-r1)+","+(c-c1);
-                mp.put(movement,mp.getOrDefault(movement,0)+1);
+                int r=pos1[0]-pos2[0]+n;
+                int c=pos1[1]-pos2[1]+n;
+                best=Math.max(best,++count[r][c]);
             }
         }
-        int ans=0;
-        for(int val:mp.values()){
-            if(val>ans)ans=val;
-        }
-        return ans;
+        return best;
     }
 }
