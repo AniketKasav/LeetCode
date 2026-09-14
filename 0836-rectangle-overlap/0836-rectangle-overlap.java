@@ -12,6 +12,6 @@ class Solution {
         int commonWidth=Math.min(x2,x4)-Math.max(x1,x3);
         int commonHeight=Math.min(y2,y4)-Math.max(y1,y3);
 
-        return (commonWidth>0 && commonHeight>0)?true:false;
+        return (commonWidth>0 && commonHeight>0);
     }
 }
