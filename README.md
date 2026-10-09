@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AniketKasav/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/AniketKasav/LeetCode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/AniketKasav/LeetCode/tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/AniketKasav/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/AniketKasav/LeetCode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/AniketKasav/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0835-image-overlap](https://github.com/AniketKasav/LeetCode/tree/master/0835-image-overlap) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/AniketKasav/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/AniketKasav/LeetCode/tree/master/0525-contiguous-array) |
 | [0904-fruit-into-baskets](https://github.com/AniketKasav/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AniketKasav/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AniketKasav/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AniketKasav/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0525-contiguous-array](https://github.com/AniketKasav/LeetCode/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/AniketKasav/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketKasav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AniketKasav/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
