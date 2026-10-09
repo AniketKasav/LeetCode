@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/AniketKasav/LeetCode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/AniketKasav/LeetCode/tree/master/0279-perfect-squares) |
+| [0441-arranging-coins](https://github.com/AniketKasav/LeetCode/tree/master/0441-arranging-coins) |
 | [0836-rectangle-overlap](https://github.com/AniketKasav/LeetCode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/AniketKasav/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AniketKasav/LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/AniketKasav/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/AniketKasav/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/AniketKasav/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+| [0441-arranging-coins](https://github.com/AniketKasav/LeetCode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketKasav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AniketKasav/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
