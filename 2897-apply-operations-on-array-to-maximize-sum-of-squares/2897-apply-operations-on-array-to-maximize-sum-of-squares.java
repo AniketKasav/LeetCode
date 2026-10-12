@@ -21,7 +21,7 @@ class Solution {
                 }
             }
 
-            ans=(ans+(x*x)%mod)%mod;
+            ans=(ans+(x*x))%mod;
         }
         return (int)ans;
 
