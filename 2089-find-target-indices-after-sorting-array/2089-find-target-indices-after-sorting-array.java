@@ -19,8 +19,8 @@ class Solution {
         }
         Arrays.sort(nums);
         List<Integer> ans=new ArrayList<>();
-        for(int i=lessThanTargetCount;i<lessThanTargetCount+equalToTargetCount;i++){
-            ans.add(i);
+        for(int i=0;i<equalToTargetCount;i++){
+            ans.add(lessThanTargetCount+i);
         }
         return ans;
     }
