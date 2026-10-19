@@ -1,23 +1,27 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
+        //Arrays.sort(nums);
+        // List<Integer> ans=new ArrayList<>();
+        // for (int i=0;i<nums.length;i++){
+        //     if(nums[i]==target)ans.add(i);
+        // }
+        
+        // another way
+        // count the element which are less than the target and equal to target 
+        // and then sort the nums after sorting the count of less number well give you the starting idx in loop
+        // and count of the target equal give upto which idx you will find the target
+
+        int lessThanTargetCount=0;
+        int equalToTargetCount=0;
+        for (int num:nums){
+            if(num<target) lessThanTargetCount++;
+            if(num==target) equalToTargetCount++;
+        }
         Arrays.sort(nums);
         List<Integer> ans=new ArrayList<>();
-        for (int i=0;i<nums.length;i++){
-            if(nums[i]==target)ans.add(i);
+        for(int i=lessThanTargetCount;i<lessThanTargetCount+equalToTargetCount;i++){
+            ans.add(i);
         }
-        // int left=0;
-        // int right=nums.length-1;
-        // List<Integer> ans=new ArrayList<>();
-        // while(left<=right){
-        //     int mid=left+(right-left)/2;
-        //     if(nums[mid]==target){
-        //         ans.add(mid);
-        //     }else if(target>nums[mid]){
-        //         left=mid+1;
-        //     }else if(target<nums[mid]){
-        //         right=mid-1;
-        //     }
-        // }
         return ans;
     }
 }
