@@ -1,22 +1,38 @@
 class Solution {
-    private int[][] grid;
-    private int m, n;
+    public int closedIsland(int[][] grid) {
+        // So your base-condition thinking is:
+        // Outside grid → false
+        // Cell is 1     → true
+        // Cell is 0     → explore 4 directions
 
-    private boolean closed(int i, int j) {  // flood the island through (i, j); true if it never reaches the border
-        if (i < 0 || i >= m || j < 0 || j >= n) return false;  // stepped off the grid: the island touches the border
-        if (grid[i][j] == 1) return true;  // water, or land we already flooded
-        grid[i][j] = 1;  // visited: turn it into water
-        return closed(i + 1, j) & closed(i - 1, j) & closed(i, j + 1) & closed(i, j - 1);  // & (not &&) floods all 4 sides
+        int ans=0;
+        int rows=grid.length;
+        int cols=grid[0].length;
+       for(int i=0;i<rows;i++){
+        for(int j=0;j<cols;j++){
+            if(grid[i][j]==0){
+                boolean result=bfs(grid,i,j);
+                if(result)ans++;
+            }
+            
+        }
+       }
+        return ans;
     }
 
-    public int closedIsland(int[][] grid) {
-        this.grid = grid;
-        m = grid.length;
-        n = grid[0].length;
-        int count = 0;
-        for (int i = 0; i < m; i++)
-            for (int j = 0; j < n; j++)
-                if (grid[i][j] == 0 && closed(i, j)) count++;
-        return count;
+    public boolean bfs (int[][] grid,int i,int j){
+        if(i<0 || i>=grid.length || j<0 || j>=grid[0].length){
+            return false;
+        }
+        if(grid[i][j]==1){
+            return true;
+        }
+        grid[i][j]=1;
+        boolean r1 = bfs(grid,i-1,j);
+        boolean r2 = bfs(grid,i,j-1);
+        boolean r3 = bfs(grid,i+1,j);
+        boolean r4 = bfs(grid,i,j+1);
+        boolean result = r1 && r2 && r3 && r4;
+        return result;
     }
 }
