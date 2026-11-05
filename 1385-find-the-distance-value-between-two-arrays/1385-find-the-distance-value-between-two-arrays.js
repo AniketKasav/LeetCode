@@ -13,10 +13,7 @@ var findTheDistanceValue = function(arr1, arr2, d) {
                 flag=false;
                 break;
             }
-            //console.log(flag)
         }
-        //console.log(flag)
-        console.log(ans)
         if(flag){
             ans++;
         }
