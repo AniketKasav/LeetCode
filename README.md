@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/AniketKasav/LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketKasav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1254-number-of-closed-islands](https://github.com/AniketKasav/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketKasav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AniketKasav/LeetCode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AniketKasav/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AniketKasav/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/AniketKasav/LeetCode/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/AniketKasav/LeetCode/tree/master/0456-132-pattern) |
 | [1004-max-consecutive-ones-iii](https://github.com/AniketKasav/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketKasav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AniketKasav/LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketKasav/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AniketKasav/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AniketKasav/LeetCode/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AniketKasav/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/AniketKasav/LeetCode/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketKasav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AniketKasav/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AniketKasav/LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Recursion
@@ -414,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AniketKasav/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/AniketKasav/LeetCode/tree/master/0414-third-maximum-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/AniketKasav/LeetCode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/AniketKasav/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/AniketKasav/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AniketKasav/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
