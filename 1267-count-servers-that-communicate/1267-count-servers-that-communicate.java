@@ -9,16 +9,12 @@ class Solution {
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
                 if(grid[i][j]==1){
-
                     rowServers[i]++;
                     colServers[j]++;
-
                 }
             }
         }
-
         int ans=0;
-
         for(int i=0;i<rows;i++){
             for(int j=0;j<cols;j++){
                 if(grid[i][j]==1 && (rowServers[i]>1 || colServers[j]>1)){
