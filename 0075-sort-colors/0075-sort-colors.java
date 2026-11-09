@@ -2,12 +2,9 @@ class Solution {
     public void sortColors(int[] nums) {
         // shift the 0 at the start of array and 2 at the end of array and keep 1 in middle
 
-        int low=0;
-        int high=nums.length-1;
-        int mid=0;
+        int low=0,high=nums.length-1, mid=0;
 
         while(mid<=high){
-
             if(nums[mid]==0){   // then shift it to the starting
             int temp=nums[mid];
             nums[mid]=nums[low];
@@ -23,9 +20,7 @@ class Solution {
                 nums[mid]=nums[high];
                 nums[high]=temp;
                 high--;
-            }
-            
+            } 
         }
-
     }
 }
