@@ -1,23 +1,31 @@
 class Solution {
     public void sortColors(int[] nums) {
-        int n=nums.length;
-        int low=0,mid=0,high=n-1;
+        // shift the 0 at the start of array and 2 at the end of array and keep 1 in middle
+
+        int low=0;
+        int high=nums.length-1;
+        int mid=0;
 
         while(mid<=high){
-            if(nums[mid]==0){
-                int temp1=nums[mid];
-                nums[mid]=nums[low];
-                nums[low]=temp1;
-                mid++;
-                low++;
-            }else if(nums[mid]==1){
+
+            if(nums[mid]==0){   // then shift it to the starting
+            int temp=nums[mid];
+            nums[mid]=nums[low];
+            nums[low]=temp;
+            mid++;
+            low++;
+            }
+            else if(nums[mid]==1){
                 mid++;
             }else{
-                int temp2=nums[high];
-                nums[high]=nums[mid];
-                nums[mid]=temp2;
+                System.out.println("mid:"+nums[mid]+" high:"+nums[high]);
+                int temp=nums[mid];
+                nums[mid]=nums[high];
+                nums[high]=temp;
                 high--;
             }
+            
         }
+
     }
 }
