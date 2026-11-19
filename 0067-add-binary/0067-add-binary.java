@@ -21,8 +21,6 @@ class Solution {
         if(j>=0){
             sum+=b.charAt(j--)-'0';
         }
-        System.out.println("i:"+i+" j:"+j+" carry:"+carry);
-
         carry=sum/2;
         sb.insert(0,sum%2);        
     }
