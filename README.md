@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AniketKasav/LeetCode/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/AniketKasav/LeetCode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/AniketKasav/LeetCode/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/AniketKasav/LeetCode/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/AniketKasav/LeetCode/tree/master/0441-arranging-coins) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AniketKasav/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AniketKasav/LeetCode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/AniketKasav/LeetCode/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/AniketKasav/LeetCode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/AniketKasav/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/AniketKasav/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/AniketKasav/LeetCode/tree/master/0091-decode-ways) |
@@ -398,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AniketKasav/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/AniketKasav/LeetCode/tree/master/0136-single-number) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/AniketKasav/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/AniketKasav/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AniketKasav/LeetCode/tree/master/0067-add-binary) |
 | [3498-reverse-degree-of-a-string](https://github.com/AniketKasav/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Database
 |  |
