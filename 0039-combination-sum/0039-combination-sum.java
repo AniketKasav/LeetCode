@@ -11,8 +11,9 @@ class Solution {
 
         if(target==0){
             if(!set.contains(combo)){
-                ans.add(new ArrayList<Integer>(combo));
-                set.add(new ArrayList<Integer>(combo));
+                List<Integer> temp=new ArrayList<>(combo);
+                ans.add(temp);
+                set.add(temp);
             }
             return;
         }
