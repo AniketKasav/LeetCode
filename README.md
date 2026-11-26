@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/AniketKasav/LeetCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/AniketKasav/LeetCode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/AniketKasav/LeetCode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/AniketKasav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/AniketKasav/LeetCode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/AniketKasav/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AniketKasav/LeetCode/tree/master/0064-minimum-path-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/AniketKasav/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AniketKasav/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/AniketKasav/LeetCode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/AniketKasav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/AniketKasav/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/AniketKasav/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/AniketKasav/LeetCode/tree/master/0072-edit-distance) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AniketKasav/LeetCode/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/AniketKasav/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/AniketKasav/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/AniketKasav/LeetCode/tree/master/3841-palindromic-path-queries-in-a-tree) |
