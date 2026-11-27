@@ -1,24 +1,18 @@
 class Solution {
     public String digitSum(String s, int k) {
-        
-        int c=0;
-        int currsum=0;
+       // int n=s.length();
         while(s.length()>k){
-        StringBuilder sb=new StringBuilder();
-        for(char ch:s.toCharArray()){
-            currsum+=ch-'0';
-            c++;
-            if(c==k){
-                sb.append(currsum);
-                currsum=0;
-                c=0;
+            StringBuilder sb=new StringBuilder();
+            for(int i=0;i<s.length();i+=k){
+                int r=Math.min(i+k,s.length());
+                int sum=0;
+                for(int j=i;j<r;j++){
+                    int digit=s.charAt(j)-'0';
+                    sum+=digit;
+                }
+                sb.append(sum);
             }
-        }
-        if(c>0)sb.append(currsum);
-        currsum=0;
-        c=0;
-        System.out.println(sb.toString());
-        s=sb.toString();
+            s=sb.toString();
         }
         return s;
     }
